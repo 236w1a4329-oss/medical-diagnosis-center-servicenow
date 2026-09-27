@@ -60,4 +60,4 @@ View Documentation : https://drive.google.com/drive/folders/1XSME-wRe5_uxLFCwhB5
 
 A walkthrough of the Medical Diagnosis Center demonstrating test booking, appointment management, lab reports and automated workflows.
 
-Watch Demo
+Watch Demo : https://drive.google.com/file/d/1caBA8UthS7fHgJB6aaTzI4psC_yP-kmG/view?usp=sharing
